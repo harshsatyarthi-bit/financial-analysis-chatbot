@@ -74,3 +74,35 @@ Fiscal Years:
 ## 👨‍💻 Author
 
 **Harsh Kumar Satyarthi**
+
+---
+
+# 📸 Application Screenshots
+
+## Home Screen
+
+![Home](home.png)
+
+---
+
+## Financial Report
+
+![Report](report.png)
+
+---
+
+## Revenue Comparison
+
+![Comparison](comparison.png)
+
+---
+
+## Highest Revenue
+
+![Ranking](ranking.png)
+
+---
+
+## Financial Definition
+
+![Definition](definition.png)
