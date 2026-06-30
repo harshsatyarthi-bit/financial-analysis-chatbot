@@ -1,5 +1,11 @@
 # 💹 Financial Analysis Chatbot
 
+## Home Screen
+
+![Home](home.png)
+
+---
+
 ## 📌 Overview
 
 The Financial Analysis Chatbot is a rule-based chatbot built using **Python**, **Pandas**, and **Gradio**.
