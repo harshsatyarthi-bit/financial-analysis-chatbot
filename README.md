@@ -85,11 +85,6 @@ Fiscal Years:
 
 # 📸 Application Screenshots
 
-## Home Screen
-
-![Home](home.png)
-
----
 
 ## Financial Report
 
